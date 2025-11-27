@@ -43,5 +43,5 @@ This project reflects how real-world search engines build and maintain keywordâ€
 - Real-time auto-update when files change
 
 ## How to RUN
-make clean && make
--> ./inverted.out file1.txt file2.txt ...
+- Compilation -> make clean && make
+- Execution -> ./inverted.out file1.txt file2.txt ...
